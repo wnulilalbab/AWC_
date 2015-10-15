@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_header">#F44336</color>
+    <color name="text_header">#FFFFFF</color>
+    <color name="text_title">#2C2C2C</color>
+    <color name="text_sub">#868686</color>
+    <color name="bg_list_pressed">#EEEEEE</color>
+</resources>
